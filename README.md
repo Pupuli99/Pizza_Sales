@@ -8,17 +8,17 @@ To analyze the sales and revenue patterns of a pizza restaurant chain to optimiz
 
 Sub-problems to Address:
 
-Category performance analysis (volume vs revenue)
+* Category performance analysis (volume vs revenue)
 
-Top selling pizzas along with quantity ordered creating impact on the overall revenue
+* Top selling pizzas along with quantity ordered creating impact on the overall revenue
 
-Most selling pizzas sizes
+* Most selling pizzas sizes
 
-Time-based ordering patterns
+* Time-based ordering patterns
 
-Product mix optimization
+* Product mix optimization
 
-Revenue contribution analysis,.
+* Revenue contribution analysis,.
 
 ## Data Source
 The data used in this analysis consists of historical sales and operational data from  pizza restaurant chain. The dataset includes the following files and columns:
@@ -51,13 +51,6 @@ The data used in this analysis consists of historical sales and operational data
 
 These files collectively offer comprehensive insights into order trends, pizza preferences, and sales patterns, enabling in-depth analysis and data-driven decision-making.
 
-
-
-
-
-
-
-## Analysis
 ## Analysis
 
 This project analyzes the sales and revenue performance of a pizza restaurant chain, uncovering key insights into customer preferences, product performance, and growth opportunities.
@@ -67,7 +60,7 @@ This project analyzes the sales and revenue performance of a pizza restaurant ch
 * Pizza sizes play a significant role in customer choices, with Large and Medium pizzas dominating sales, contributing to a combined 34,111 orders. 
 * The Greek Pizza, priced higher than other offerings, caters to premium customers, highlighting an opportunity to target high-value segments. 
 * Small and XXL pizzas, however, have comparatively fewer orders, presenting growth potential through targeted promotions or bundle deals. The menu reflects diverse customer preferences,
-*  with balanced revenue distribution across categories (23-27%).
+  with balanced revenue distribution across categories (23-27%).
 
 2. Volume vs. Revenue Leaders:
 * While the Classic category leads in order volume (14,888 orders), Chicken pizzas like Thai, BBQ, and California drive the highest revenue per item. This indicates the effectiveness of
@@ -76,7 +69,7 @@ This project analyzes the sales and revenue performance of a pizza restaurant ch
 
 3. Daily Operations:
 * The restaurant sells an average of 138 pizzas daily, with clear peak hours during lunch and dinner, suggesting high customer traffic during these times. This pattern emphasizes the
-*  importance of streamlining operations and ensuring inventory readiness during peak hours.
+  importance of streamlining operations and ensuring inventory readiness during peak hours.
 
 4. Revenue Metrics:
 * Revenue is evenly distributed across categories, with the Classic category leading at 26.91%. 
@@ -91,6 +84,7 @@ inform menu optimization, pricing strategies, and targeted marketing campaigns t
 * Chicken-based pizzas: High per-item revenue.
 * Large & Medium pizzas: Most popular.
 * Revenue distribution: Balanced across categories.
+  
 ## Future Actions
 * Expand chicken pizza offerings.
 * Target promotions for Small and XXL pizzas.
